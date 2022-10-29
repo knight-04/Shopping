@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#btnBack {
+    background-color: #fff;
+    border: #bb1957 1px solid;
+    padding: 5px 10px;
+    color: #bb1957;
+    float: center;
+    text-decoration: none;
+    border-radius: 10px;
+    margin: 10px 20px;
+    cursor: pointer;
+}
+
+.txt {
+    font-size: 200%;
+    color: #bb1957;
+    margin: 100px;
+    text-align: center;
+}
+

@@ -1,0 +1,161 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: thai;
+    color: #bb1957;
+    font-size: 1em;
+}
+
+#shopping-cart {
+    margin: 40px;
+}
+#product-grid {
+    margin-left: auto;
+    margin: -40px;
+}
+
+#shoppng-cart table {
+    width: 100%;
+    background-color: #f0f0f0;
+}
+
+#shopping-cart table td {
+    background-color: #fff;
+}
+
+.txt-heading {
+    font-size: 200%;
+    color: #bb1957;
+    border-bottom: 3px solid #bb1957;
+    border-radius: 5px;
+    margin: 20px;
+    
+}
+
+#btnEmpty {
+    background-color: #fff;
+    border: #bb1957 1px solid;
+    padding: 5px 10px;
+    color: #bb1957;
+    float: right;
+    text-decoration: none;
+    border-radius: 3px;
+    margin: 10px 20px;
+    cursor: pointer;
+}
+
+#btnLogout {
+    background-color: #fff;
+    border: #bb1957 1px solid;
+    padding: 5px 23px;
+    color: #bb1957;
+    float: right;
+    text-decoration: none;
+    border-radius: 3px;
+    margin: 10px 20px;
+    cursor: pointer;
+}
+
+.btnAddAction {
+    padding: 5px 10px;
+    margin-left: auto;
+    background-color: #FFE4E3;
+    border: #bb1957 1px solid;
+    color: #bb1957;
+    float: center;
+    text-decoration: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#product-grid .txt-heading {
+    margin-bottom: 18px;
+}
+
+.product-item {
+    float: left;
+    margin: auto 35px 0px 0px;
+    
+}
+
+.product-images {
+    height: 155px;
+    width: 250px;
+    background-color: #fff;
+}
+
+.clear-float {
+    clear: both;
+}
+
+.tbl-cart {
+    font-size: 20px;
+}
+.tbl-cart th {
+    font-weight: normal;
+}
+.product-title {
+    margin-bottom: 10px;
+}
+.product-price {
+    float: left;
+}
+.cart-acton {
+    float: right;
+}
+
+.product-quantity {
+    float: center;
+    padding: 5px 20px;
+    border-radius: 10px;
+    border: #e0e0e0 1px solid;
+    
+}
+
+.product-title-footer {
+    padding: 20px 20px 0 20px;
+    overflow: auto;
+}
+
+.cart-item-image {
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+    border: #e0e0e0 1px solid;
+    padding: 5px;
+    vertical-align: middle;
+    margin-right: 15px;
+}
+
+.no-records {
+    font-size: 130%;
+    text-align: center;
+    clear: both;
+    margin: 40px 0;
+    color: #bb1957;
+}
+
+#btnPayment {
+    background-color: #fff;
+    border: #bb1957 1px solid;
+    padding: 5px 23px;
+    color: #bb1957;
+    float: right;
+    text-decoration: none;
+    border-radius: 3px;
+    margin: 1px 1px;
+    cursor: pointer;
+}
+
+#btnRemoveAction {
+    background-color: #fff;
+    border: #bb1957 1px solid;
+    padding: 5px 23px;
+    color: #bb1957;
+    float: right;
+    text-decoration: none;
+    border-radius: 3px;
+    margin: 1px 1px;
+    cursor: pointer;
+}
